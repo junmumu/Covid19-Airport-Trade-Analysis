@@ -61,6 +61,20 @@
    - 출처 : [항공정보포털시스템(AirPortal)]([항공통계](https://www.airportal.go.kr/knowledge/statsnew/air/area.jsp#))
    
    ![](./output/img/data3.PNG)
+   
+---
+
+## 활용기술
+
+- 활용 언어 : Python
+
+- 크롤링 : BeautifulSoup, Selenium
+
+- 데이터 전처리 및 가공 : Pandas
+
+- 데이터 시각화 : MatplotLib
+
+- 데이터 분석: SciPy
 
 ---
 
